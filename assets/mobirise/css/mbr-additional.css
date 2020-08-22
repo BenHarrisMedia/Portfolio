@@ -742,12 +742,6 @@ a {
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
-.cid-s8nstku5Pa img,
-.cid-s8nstku5Pa .item-img {
-  height: 100%;
-  height: 300px;
-  object-fit: cover;
-}
 .cid-s8nstku5Pa .item:focus,
 .cid-s8nstku5Pa span:focus {
   outline: none;
