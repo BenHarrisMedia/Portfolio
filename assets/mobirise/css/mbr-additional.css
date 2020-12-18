@@ -855,17 +855,23 @@ a {
 .cid-saEaK0WdEe .card-title {
   color: #ff5757;
 }
-.cid-s48udlf8KU {
-  padding-top: 5rem;
-  padding-bottom: 2rem;
+.cid-sjuPYzldwY {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-color: #ff5757;
 }
-.cid-s48udlf8KU .mbr-section-title {
-  text-align: left;
+.cid-sjuPYzldwY .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sjuPYzldwY .mbr-section-title,
+.cid-sjuPYzldwY .mbr-section-subtitle,
+.cid-sjuPYzldwY .mbr-text {
+  text-align: center;
+}
+.cid-sjuPYzldwY .mbr-section-title {
   color: #ffffff;
 }
-.cid-s48udlf8KU .mbr-section-subtitle {
-  text-align: center;
+.cid-sjuPYzldwY .mbr-section-subtitle {
   color: #ffffff;
 }
 .cid-saEgYImOeM {
